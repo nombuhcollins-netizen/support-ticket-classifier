@@ -4,5 +4,5 @@ pydantic
 sqlalchemy
 streamlit
 pandas
-plotly.express
+plotly
 requests
