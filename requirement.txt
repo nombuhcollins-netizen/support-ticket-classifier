@@ -1,8 +1,0 @@
-fastapi
-joblib
-pydantic
-sqlalchemy
-streamlit
-pandas
-plotly.express
-requests
