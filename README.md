@@ -11,4 +11,4 @@
 - `For the frontend, i used streamilt to build the frontend. And with the streamlit, you can build outstanding dashboard for you model in no time without any html and js knowledge. To run the streamlit file, you type **streamilt run streamlit.py**`
 
 ## Requirement
-- ` The requirement file contain all the require libaries to run **main.py and streamlit.py**. To install the requirement, you type **pip install -r requirement.txt** `
+- ` The requirement file contain all the require libaries to run **main.py and streamlit.py**. To install the requirement, you type **pip install -r requirements.txt** `
